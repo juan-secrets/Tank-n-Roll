@@ -78,3 +78,7 @@ DerivedDataCache/*
 Content/*
 !Content/GameAssets/
 !Content/Movies/
+!Content/Characters/
+!Content/Cursor/
+!Content/LevelPrototyping/
+!Content/TopDown/
