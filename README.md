@@ -10,6 +10,7 @@ todo
 ## 📦 Required Asset Packs
 
 -   [Mixed VFX](https://www.fab.com/listings/6518971c-c8ca-47d7-8611-1ff068b78dd5)
+-   [Stylized Dungeon Pack](https://www.fab.com/listings/c6e91312-202a-4d80-a6f1-1b374bb27dce)
 
 The project relies on several free asset packs. If you want to open and
 run the project in **UE5** (not just play the build), make sure to
