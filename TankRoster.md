@@ -10,7 +10,7 @@ Each tank has a unique combination of shell type, movement speed, active shell l
 |------|-----------|---------------|-------------|------------|
 | Blue 1 | Bouncy | 600 | 4 | 2 |
 | Blue 2 | None | 900 | 0 | 6 |
-| Blue 3 | Missile + Mortar | 500 | 3 missiles | 6 mortars |
+| Blue 3 | Missile + Mortar | 500 | 3 missiles | 2 mortars |
 
 > **Blue 2** forgoes shells entirely in favour of speed and an arsenal of landmines.
 > **Blue 3** is the only tank that carries two shell types simultaneously — missiles for direct combat and mortars for area denial.
