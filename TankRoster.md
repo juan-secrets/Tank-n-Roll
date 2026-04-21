@@ -21,7 +21,7 @@ Each tank has a unique combination of shell type, movement speed, active shell l
 
 | Tank | Shell Type | Movement Speed | Shell Limit | Bomb Limit |
 |------|-----------|---------------|-------------|------------|
-| Green 1 | Missile | 700 | 3 | 3 |
+| Green 1 | Missile | 550 | 3 | 3 |
 | Green 2 | Bouncy | 650 | 4 | 2 |
 | Green 3 | Bouncy | 400 | 8 | 2 |
 
